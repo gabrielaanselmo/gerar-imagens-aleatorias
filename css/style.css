@@ -1,0 +1,21 @@
+img {
+    max-width: 500px;
+  } 
+
+  .button-container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+
+  .button{
+    padding: 6px 12px;
+    outline: none;
+    border: none;
+    width: 8rem;
+    border-radius: 4px;
+    background: #778dfb;
+    color: #fff;
+  }
+  
